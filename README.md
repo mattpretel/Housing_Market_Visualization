@@ -1,4 +1,4 @@
-# Real Estate Data Visualizations
+# Real Estate Data Visualization
 
 In this project I will be creating a multitude of interactive Real Estate maps that we will sinc together into an interactive dashboard. Great to use for business analytics and visualization of complex data. 
 
